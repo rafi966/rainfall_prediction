@@ -1,0 +1,26 @@
+body {
+    background-image:url("harv.jpg") !important;
+    font-family: 'Poppins', sans-serif;
+    background-size: cover;
+    justify-content: flex-start;
+    background-position: center;
+}
+.form {
+    position: relative;
+    width: 70vw;
+    margin: 50px auto;
+    padding: 20px 50px;
+    box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18),0 4px 15px 0 rgba(0,0,0,0.15);
+    border-radius: 12px;
+    backdrop-filter:blur(3px);
+}
+.form h1 {
+    color: #0fd3dd;
+}
+
+.button {
+    padding: 5px 30px;
+    font-size: 18px;
+}
+
+
